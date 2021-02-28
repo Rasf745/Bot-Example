@@ -1,5 +1,6 @@
 # Enraivado-Bot
 Enraivado Bot Repository
+
 Enraivado Bot é um bot focado em sua diversão, satisfação e interação em seu servidor e é por isso que eu recomendo que você o adicione em seu servidor!
 
 Caso você queira ver suas funciosalidades segue o formulário abaixo.
